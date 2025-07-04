@@ -17,6 +17,12 @@ Watch a short demo of the full-stack dashboard application, including:
 
 📺 **Demo Video Link:**  
 [Click to Watch on Google Drive](https://drive.google.com/file/d/1EtwkaQNvbPdfHqC2ye65XjLS4xeWPj1I/view?usp=sharing)
+## 🚀 Live Demo
+
+Check out the live deployed version on Vercel:
+
+🔗 [User Dashboard - Live Demo](https://vercel.com/ritesh-jadhavs-projects/user-dashboard/3PYfpDnvriw1Kck5A3bLiDE95TMR)
+
 
 ## ✨ Features
 
