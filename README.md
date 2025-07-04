@@ -7,6 +7,17 @@ A modern, full-stack user management application built with Next.js, TypeScript,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Firebase](https://img.shields.io/badge/Firebase-10-orange?style=for-the-badge&logo=firebase)
 
+## 🎥 Video Demo
+
+Watch a short demo of the full-stack dashboard application, including:
+
+- Live CRUD operations (Create, Read, Update, Delete)
+- Responsive dashboard UI
+- Docker-based local deployment
+
+📺 **Demo Video Link:**  
+[Click to Watch on Google Drive](https://drive.google.com/file/d/1EtwkaQNvbPdfHqC2ye65XjLS4xeWPj1I/view?usp=sharing)
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
